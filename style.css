@@ -1,0 +1,32 @@
+body
+{
+ background-color: Black;
+ color: white;
+ font-family: cursive;
+ font-style: italic;
+ font-weight: 900;
+}
+.heading
+{
+ width: 60%;
+ letter-spacing: 2px;
+}
+#No-Objects
+{
+ color: yellow;
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 20px;
+}
+#Cmera
+{
+ width: 350px;
+ height: 300px;
+ border: 2px dashed yellow;
+}
+span
+{
+ color: Yellow;
+ font-family: serif;
+ font-style: italic;
+ font-size: 20px;
+}
